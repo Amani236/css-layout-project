@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css-loyout.css" />
+        <title>
+            Docplanner Group
+        </title>
+    </head>
+    <body>
+        <div class="fixed">            
+            <img src="https://www.docplanner.com/img/sygnet.png" alt="Docplanner Group" > 
+            <h1>
+                Docplanner
+            </h1>
+            <h1>
+                Group
+            </h1>
+        </div>    
+        <div>
+            <nav>
+                <a href="file:///C:/Users/dell/Desktop/css%20layout" target="_blank">About us</a>
+                <a href="file:///C:/Users/dell/Desktop/css%20layout" target="_blank">Career</a>
+            </nav>
+            <select name="Departments">
+                <option value="Marketing & PR">Marketing & PR</option>
+                <option value="Custumer Success & Sales">Custumer Success & Sales</option>
+                <option value="IT,Product,Data">IT,Product,Data</option>
+                <option value="Finance & Administration">Finance & Administration</option>
+                <option value="HR & more">HR & more</option>
+            </select>
+        </div>
+        <img src="https://www.docplanner.com/img/sygnet.png" alt="Docplanner Group" >
+        <h1>
+            Making the healthcare experience more human
+        </h1>
+        <p>
+            We want patients to find the perfect doctor and book an appointment in the most easy way. The patient journey should be enjoyable, and that's why we are always next to them: to help them find the best possible care. Anytime, anywhere.
+        </p>
+        <p>
+            We also help doctors to better manage their practice and build their online reputation. With our integrated end-to-end solution, doctors are able not only to improve their online presence, but also to devote their time to what really matters: their patients.
+        </p>
+
+    </body>
+</html>
