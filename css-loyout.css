@@ -1,5 +1,40 @@
-.fixed{
-    background-color: #F1F1F1;
-    text-align:left
-    padding: 20px;
+.am{
+    position: relative;
+    display: flex;
+    justify-content:left;
+    column-gap: 10px;
+
+}
+.art{
+    display: flex;
+    align-items: flex-start;
+}
+.an{
+    font-weight: 400;
+    color:#00b39b;
+    font-family: Roboto,Arial,sans-serif   
+}
+.az{
+    font-weight: 400;
+    color: #747474;
+    font-family: Roboto,Arial,sans-serif
+}
+.fx{
+    display: flex;
+    position: relative;
+    justify-content: right;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+
+}
+.first{
+    display: flex;
+    justify-content: center;
+    color:#00b39b;
+}
+.parag{
+    display: flex;
+    align-items: stretch;
 }
